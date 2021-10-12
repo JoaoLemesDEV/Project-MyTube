@@ -1,0 +1,14 @@
+.table-responsive{
+  width: 100% !important;
+}
+
+.table {
+    border: 1px solid
+    width 50%;
+    margin: auto;
+}
+
+.table-status {
+    margin-top: 20px;
+    margin-bottom: 20px !important;
+}
